@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/validation_test.dir/validation_test.cpp.o -o validation_test  ../spatial/libspatial.a ../lib/libgtestd.a -pthread 

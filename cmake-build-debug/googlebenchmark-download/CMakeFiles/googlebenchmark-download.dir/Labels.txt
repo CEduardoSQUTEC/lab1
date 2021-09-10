@@ -1,0 +1,13 @@
+# Target labels
+ googlebenchmark-download
+# Source files and their labels
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/CMakeFiles/googlebenchmark-download
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/CMakeFiles/googlebenchmark-download.rule
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/CMakeFiles/googlebenchmark-download-complete.rule
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/googlebenchmark-download-prefix/src/googlebenchmark-download-stamp/googlebenchmark-download-build.rule
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/googlebenchmark-download-prefix/src/googlebenchmark-download-stamp/googlebenchmark-download-configure.rule
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/googlebenchmark-download-prefix/src/googlebenchmark-download-stamp/googlebenchmark-download-download.rule
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/googlebenchmark-download-prefix/src/googlebenchmark-download-stamp/googlebenchmark-download-install.rule
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/googlebenchmark-download-prefix/src/googlebenchmark-download-stamp/googlebenchmark-download-mkdir.rule
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/googlebenchmark-download-prefix/src/googlebenchmark-download-stamp/googlebenchmark-download-patch.rule
+/home/ceduardosq/Documents/Classes/2021-2/ads/Lab/Lab01/lab1/cmake-build-debug/googlebenchmark-download/googlebenchmark-download-prefix/src/googlebenchmark-download-stamp/googlebenchmark-download-test.rule

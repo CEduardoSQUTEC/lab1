@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspatial.a 
+/usr/bin/ranlib libspatial.a
